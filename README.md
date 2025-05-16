@@ -24,13 +24,18 @@ Grid Analysis and Display System (GrADS)
 
 
 Note: This project was done as part of the coursework of the "MetLb 406: Applications of NWP Modeling".
+
+
+
 Team Members:
 
-	Jannatul Ferdous Jerin
+*	Jannatul Ferdous Jerin
 
-	Sadia Afrin Sayfa Negaban
+*	Sadia Afrin Sayfa Negaban
 
-	Mohammad Fahimul Islam
+*	Mohammad Fahimul Islam
+
+
 
 Course Teacher:
 
