@@ -20,4 +20,17 @@ I did the following comparison between simulation and observation:
 Tools Used: 
 Grid Analysis and Display System (GrADS)
 
- 
+
+
+
+Note: This project was done as part of the coursework of the "MetLb 406: Applications of NWP Modeling".
+Team Members:
+	Jannatul Ferdous Jerin 
+	Sadia Afrin Sayfa Negaban
+	Mohammad Fahimul Islam
+
+Course Teacher:
+Dr. Md. Nazmul Ahsan
+Meteorologist, Weather and Climate Modelling
+Guest Teacher, Department of Meteorology, University of Dhaka
+
