@@ -30,7 +30,8 @@ Team Members:
 	Mohammad Fahimul Islam
 
 Course Teacher:
-Dr. Md. Nazmul Ahsan
+[Dr. Md. Nazmul Ahsan](https://scholar.google.co.in/citations?user=GL6wWYYAAAAJ&hl=en)
 Meteorologist, Weather and Climate Modelling
 Guest Teacher, Department of Meteorology, University of Dhaka
+
 
